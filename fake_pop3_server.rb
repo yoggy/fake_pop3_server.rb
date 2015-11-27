@@ -3,7 +3,7 @@
 # fake_pop3_server.rb
 #
 # github:
-#     https://github.com/yoggy/fake_pop3_server
+#     https://github.com/yoggy/fake_pop3_server.rb
 #
 # license:
 #     Copyright (c) 2015 yoggy <yoggy0@gmail.com>
